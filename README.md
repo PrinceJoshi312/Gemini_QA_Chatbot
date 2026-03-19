@@ -6,7 +6,7 @@ This project is a simple yet powerful **voice-controlled chatbot** powered by **
 ## 🧠 Features
 
 - 🎤 Converts voice to text using Google Speech Recognition
-- 💬 Asks questions to the Gemini model (1.5 Flash)
+- 💬 Asks questions to the Gemini model (2.5 Flash)
 - 🗣️ Reads answers aloud using Text-to-Speech
 - 🔄 Supports continuous interaction in a loop
 - 🛑 Exit with voice command: `exit`, `quit`, or `stop`
